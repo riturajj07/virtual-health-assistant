@@ -1,0 +1,7 @@
+fever,cough,headache,body_pain,disease
+1,1,0,1,Flu
+1,0,1,0,Migraine
+0,0,0,1,Body Pain
+1,1,1,1,Typhoid
+1,1,0,0,Cold
+0,0,1,0,Stress
